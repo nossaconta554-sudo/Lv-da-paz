@@ -1,1 +1,20 @@
-
+{
+  "keys": {
+    "jotavdono22": {
+      "duration": "12mo",
+      "active": true,
+      "owner": "DONO NATSU",
+      "first_use": 1764474919376,
+      "device_limit": 1,
+      "perm": false
+    },
+    "KEY-5s-FGRCEY44": {
+      "duration": "5s",
+      "active": true,
+      "owner": "testes",
+      "first_use": 1764475683342,
+      "perm": false,
+      "device_limit": 1
+    }
+  }
+}
