@@ -23,6 +23,14 @@
       "first_use": null,
       "owner": "Spadk",
       "device_limit": 1
+    },
+    "KEY-10s-5I9ZXEAB": {
+      "duration": "10s",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "SAPRK",
+      "device_limit": 1
     }
   }
 }
