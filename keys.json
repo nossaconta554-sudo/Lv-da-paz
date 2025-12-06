@@ -7,6 +7,14 @@
       "first_use": 1764996385145,
       "owner": "TESTE",
       "device_limit": 1
+    },
+    "SPARK": {
+      "duration": "10s",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "SPARK",
+      "device_limit": 1
     }
   }
 }
