@@ -23,6 +23,14 @@
       "first_use": null,
       "owner": "Spadk",
       "device_limit": 1
+    },
+    "Oii": {
+      "duration": "10s",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "No name",
+      "device_limit": 1
     }
   }
 }
