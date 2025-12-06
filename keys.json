@@ -1,13 +1,5 @@
 {
   "keys": {
-    "dono": {
-      "duration": "5s",
-      "perm": false,
-      "active": true,
-      "first_use": null,
-      "owner": "TESTE",
-      "device_limit": 1
-    },
     "KEY-5s-O0ZPO1JK": {
       "duration": "5s",
       "perm": false,
