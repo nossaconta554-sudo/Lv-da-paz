@@ -15,6 +15,14 @@
       "first_use": 1764475683342,
       "perm": false,
       "device_limit": 1
+    },
+    "Teste": {
+      "duration": "1d",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "Spadk",
+      "device_limit": 1
     }
   }
 }
