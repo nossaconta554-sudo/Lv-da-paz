@@ -19,7 +19,7 @@
     "Teste": {
       "duration": "1d",
       "perm": false,
-      "active": true,
+      "active": false,
       "first_use": null,
       "owner": "Spadk",
       "device_limit": 1
