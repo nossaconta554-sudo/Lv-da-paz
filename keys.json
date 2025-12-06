@@ -35,7 +35,7 @@
     "KEY-5s-GQQ3UT9K": {
       "duration": "5s",
       "perm": false,
-      "active": true,
+      "active": false,
       "first_use": null,
       "owner": "TESTE",
       "device_limit": 1
