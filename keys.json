@@ -1,12 +1,3 @@
 {
-  "keys": {
-    "KEY-5s-GQQ3UT9K": {
-      "duration": "5s",
-      "perm": false,
-      "active": true,
-      "first_use": 1764996178012,
-      "owner": "TESTE",
-      "device_limit": 1
-    }
-  }
+  "keys": {}
 }
