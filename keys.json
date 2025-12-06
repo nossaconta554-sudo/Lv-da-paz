@@ -15,6 +15,14 @@
       "first_use": null,
       "owner": "TESTE",
       "device_limit": 1
+    },
+    "dono": {
+      "duration": "5s",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "TESTE",
+      "device_limit": 1
     }
   }
 }
