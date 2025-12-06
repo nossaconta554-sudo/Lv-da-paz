@@ -4,7 +4,7 @@
       "duration": "5s",
       "perm": false,
       "active": true,
-      "first_use": null,
+      "first_use": 1764996385145,
       "owner": "TESTE",
       "device_limit": 1
     }
