@@ -1,12 +1,3 @@
 {
-  "keys": {
-    "jotavdono22": {
-      "duration": "12mo",
-      "active": true,
-      "owner": "DONO JOTAV",
-      "first_use": 1764474919376,
-      "device_limit": 1,
-      "perm": false
-    }
-  }
+  "keys": {}
 }
