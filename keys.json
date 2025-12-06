@@ -23,6 +23,14 @@
       "first_use": null,
       "owner": "SPARK",
       "device_limit": 1
+    },
+    "KEY-10s-TF2LYM8C": {
+      "duration": "10s",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "SPARK",
+      "device_limit": 1
     }
   }
 }
